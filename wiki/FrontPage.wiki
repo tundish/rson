@@ -8,7 +8,7 @@ There is a short manual available for RSON, and an example Python 2.x decoder is
 
 To see an example of RSON in action, you can look at the default [http://code.google.com/p/rst2pdf/ rst2pdf] [http://code.google.com/p/rst2pdf/source/browse/trunk/rst2pdf/styles/styles.style default stylesheet].
 
-Project discussion and updates happens in the rson-discuss [http://groups.google.com/group/rson-discuss google group].  Maybe at some point I will have time to add some more wiki pages and to improve the [http://code.google.com/p/rson/wiki/Manual manual][http://rson.googlecode.com/files/rson_0_06_manual.pdf (PDF)].
+Project discussion and updates happens in the rson-discuss [http://groups.google.com/group/rson-discuss google group].  Maybe at some point I will have time to add some more wiki pages and to improve the [http://code.google.com/p/rson/wiki/Manual manual] [http://rson.googlecode.com/files/rson_0_06_manual.pdf (PDF)].
 
 The current version of RSON is 0.06, which has the following differences from 0.05:
 
