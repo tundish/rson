@@ -1,6 +1,4 @@
-#summary RSON manual
 #labels Featured
-
 = Readable Serial Object Notation  (RSON) =
 
 Version 0.06
